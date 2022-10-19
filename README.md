@@ -3,3 +3,5 @@ This repository contains the collection of PDF files (generated using R Markdown
 - Module 0: Introduction to basic syntax in R. You need to try this if you are not familiar with R.
 - Module 1: Descriptive Statistics using R
 - Module 2: Data visualization and plotting using R.
+- Module 3: Statistical test using R (t-test)
+- Module 4: ANOVA test using R
