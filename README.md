@@ -5,3 +5,7 @@ This repository contains the collection of PDF files (generated using R Markdown
 - Module 2: Data visualization and plotting using R.
 - Module 3: Statistical test using R (t-test)
 - Module 4: ANOVA test using R
+
+For the teaching material, please download "Research_methodology_teaching_slides.pdf".
+
+The CSV and XLSX files are used in some of the modules.
