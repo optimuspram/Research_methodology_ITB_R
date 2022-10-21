@@ -9,3 +9,5 @@ This repository contains the collection of PDF files (generated using R Markdown
 For the teaching material, please download "Research_methodology_teaching_slides.pdf".
 
 The CSV and XLSX files are used in some of the modules.
+
+**NOTE: Please find the data for homework in "Data collection for Research Methodology Homework (Responses).csv"  **
